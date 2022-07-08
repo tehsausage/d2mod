@@ -1,50 +1,50 @@
 ### Change summary
 
-- Removed EXP penalties when approaching level 99
+- Removed EXP penalties when approaching level 99, increased cap to 127
 - EXP gained 2x faster, increasing up to 4x faster at the endgame
 - Rune rarity scales fairly
-- Gear drop rates scale linearly -- every piece of gear that is possible to drop from a monster should have equal chance to drop
+- Gear drop rates scale linearly -- each type of gear that is possible to drop from a monster should have equal chance to drop
 - Unique, Set, Rare and High Quality items approximately 2x more common
 
 ### Rune rarity table
 
 From the highest tier of monster:
 
-|  |  | Vanilla | Modded |
-| --- | --- | --- | --- |
-| #1 | El | 2.31% | 6.25% |
-| #2 | Eld | 1.54% | 5.62% |
-| #3 | Tir | 5.76% | 5.65% |
-| #4 | Nef | 3.84% | 5.09% |
-| #5 | Eth | 8.07% | 5.14% |
-| #6 | Ith | 5.38% | 4.63% |
-| #7 | Tal | 11.53% | 4.63% |
-| #8 | Ral | 7.69% | 4.16% |
-| #9 | Ort | 11.53% | 4.20% |
-| #10 | Thul | 7.69% | 3.78% |
-| #11 | Amn | 8.91% | 3.78% |
-| #12 | Sol | 5.94% | 3.40% |
-| #13 | Shael | 5.34% | 3.41% |
-| #14 | Dol | 3.56% | 3.07% |
-| #15 | Hel | 2.97% | 3.08% |
-| #16 | Io | 1.98% | 2.77% |
-| #17 | Lum | 1.57% | 2.78% |
-| #18 | Ko | 1.04% | 2.50% |
-| #19 | Fal | 0.81% | 2.51% |
-| #20 | Lem | 0.54% | 2.26% |
-| #21 | Pul | 0.41% | 2.26% |
-| #22 | Um | 0.27% | 2.04% |
-| #23 | Mal | 0.28% | 2.04% |
-| #24 | Ist | 0.19% | 1.84% |
-| #25 | Gul | 0.20% | 1.84% |
-| #26 | Vex | 0.13% | 1.65% |
-| #27 | Ohm | 0.14% | 1.66% |
-| #28 | Lo | 0.09% | 1.49% |
-| #29 | Sur | 0.10% | 1.49% |
-| #30 | Ber | 0.07% | 1.34% |
-| #31 | Jah | 0.08% | 1.34% |
-| #32 | Cham | 0.05% | 1.21% |
-| #33 | Zod | 0.02% | 1.09% |
+|  |  | Vanilla  | Modded |
+| --- | --- | ---  | --- |
+| #1 | El | 2.31%  | 2.89% |
+| #2 | Eld | 1.54%  | 2.74% |
+| #3 | Tir | 5.76%  | 2.62% |
+| #4 | Nef | 3.84%  | 2.49% |
+| #5 | Eth | 8.07%  | 2.36% |
+| #6 | Ith | 5.38%  | 2.24% |
+| #7 | Tal | 11.53%  | 6.67% |
+| #8 | Ral | 7.69%  | 6.33% |
+| #9 | Ort | 11.53%  | 6.03% |
+| #10 | Thul | 7.69%  | 5.73% |
+| #11 | Amn | 8.91%  | 5.42% |
+| #12 | Sol | 5.94%  | 5.15% |
+| #13 | Shael | 5.34%  | 4.87% |
+| #14 | Dol | 3.56%  | 4.63% |
+| #15 | Hel | 2.97%  | 4.39% |
+| #16 | Io | 1.98%  | 4.17% |
+| #17 | Lum | 1.57%  | 2.72% |
+| #18 | Ko | 1.04%  | 2.58% |
+| #19 | Fal | 0.81%  | 2.44% |
+| #20 | Lem | 0.54%  | 2.32% |
+| #21 | Pul | 0.41%  | 2.20% |
+| #22 | Um | 0.27%  | 2.09% |
+| #23 | Mal | 0.28%  | 1.98% |
+| #24 | Ist | 0.19%  | 1.88% |
+| #25 | Gul | 0.20%  | 1.78% |
+| #26 | Vex | 0.13%  | 1.69% |
+| #27 | Ohm | 0.14%  | 1.60% |
+| #28 | Lo | 0.09%  | 1.52% |
+| #29 | Sur | 0.10%  | 1.44% |
+| #30 | Ber | 0.07%  | 1.37% |
+| #31 | Jah | 0.08%  | 1.30% |
+| #32 | Cham | 0.05%  | 1.23% |
+| #33 | Zod | 0.02%  | 1.17% |
 
 ### Mod installation
 
