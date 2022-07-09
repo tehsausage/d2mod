@@ -1,7 +1,7 @@
 ### Change summary
 
 - Removed EXP penalties when approaching level 99, increased cap to 127
-- EXP gained 2x faster, increasing up to 4x faster at the endgame
+- EXP gains scaling up to 4x faster when approaching then endgame (level 75-99)
 - Rune rarity scales fairly
 - Gear drop rates scale linearly -- each type of gear that is possible to drop from a monster should have equal chance to drop
 - Unique, Set, Rare and High Quality items approximately 2x more common
