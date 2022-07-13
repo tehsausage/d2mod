@@ -126,6 +126,14 @@ r07 + r10 + 1 perfect topaz + normal torso -> socketed torso	1			100					4	"tors
 r08 + r11 + 1 perfect amethyst + normal weapon -> socketed weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
 r08 + r10 + 1 perfect sapphire + normal helm -> socketed helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
 r07 + r11 + 1 perfect ruby + normal shield -> socketed shield	1			100					4	"shld,nor,nos"	r07	r11	gpr				useitem				sock			1	6																																																																															0
+r07 + r10 + 1 perfect topaz + magic torso -> socketed torso	1			100					4	"tors,mag,nos"	r07	r10	gpy				useitem				sock			1	2																																																																															0
+r08 + r11 + 1 perfect amethyst + magic weapon -> socketed weapon	1			100					4	"weap,mag,nos"	r08	r11	gpv				useitem				sock			1	2																																																																															0
+r08 + r10 + 1 perfect sapphire + magic helm -> socketed helm	1			100					4	"helm,mag,nos"	r08	r10	gpb				useitem				sock			1	2																																																																															0
+r07 + r11 + 1 perfect ruby + magic shield -> socketed shield	1			100					4	"shld,mag,nos"	r07	r11	gpr				useitem				sock			1	2																																																																															0
+r07 + r10 + 1 perfect topaz + torso -> socketed torso	1			100					4	"tors,nos"	r07	r10	gpy				useitem				sock			1	1																																																																															0
+r08 + r11 + 1 perfect amethyst + weapon -> socketed weapon	1			100					4	"weap,nos"	r08	r11	gpv				useitem				sock			1	1																																																																															0
+r08 + r10 + 1 perfect sapphire + helm -> socketed helm	1			100					4	"helm,os"	r08	r10	gpb				useitem				sock			1	1																																																																															0
+r07 + r11 + 1 perfect ruby + shield -> socketed shield	1			100					4	"shld,nos"	r07	r11	gpr				useitem				sock			1	1																																																																															0
 r02 + 1 chipped gem + low weapon -> normal weapon	1			100					3	"weap,low"	r02	gem0					"usetype,nor"																																																																																							0
 r01 + 1 chipped gem + low armor -> normal armor	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
 r08 + r12 + perfect emerald + basic unique weapon -> exceptional unique weapon	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
