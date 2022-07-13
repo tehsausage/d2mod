@@ -18,6 +18,7 @@
 - Rune rarity scales fairly
 - Gear drop rates scale linearly -- each type of gear that is possible to drop from a monster should have equal chance to drop
 - Unique, Set, Rare and High Quality items approximately 2x more common
+- Added cube recipes for upgrading set items, and adding sockets to any item
 
 ### Expected levelling speed vs Vanila
 
@@ -94,4 +95,23 @@ From the highest tier of monster:
 | Mob | 0.09% | 0.27% | 0.40% | 2.00% |
 | Unique | 1.33% | 3.55% | 5.85% | 20.21% |
 | Prime Evil | 15.78% | 33.29% | 15.93% | 0.00% |
+
+### Added Cube Recipes
+
+Added cube recipes are based on existing recipes.
+
+Set item upgrade recipes are based on the recipe added in D2R, which is a copy of the recipe for upgrading Unique items. Sockets and attributes are retained when upgrading.
+
+Socket-adding recipes are a copy of the recipe for adding sockets to normal items, but will now add 1-2 sockets to Magic items, or 1 socket for Unique, Set and Rare items, in line with the Siege on Harrogath quest reward.
+
+| Recipe | -> | Output |
+| --- | --- | --- |
+| Ral + Sol + Perfect Emerald + Normal Set Weapon | -> | Exceptional Version of Weapon |
+| Lum + Pul + Perfect Emerald + Exceptional Set Armor | -> | Elite Version of Weapon |
+| Tal + Shael + Perfect Diamond + Normal Set Armor | -> | Exceptional Version of Armor |
+| Ko + Lem + Perfect Diamond + Exceptional Set Armor | -> | Elite Version of Armor |
+| Ral + Amn + Perfect Amethyst + Weapon | -> | Add sockets (1-2 for magic, 1 for unique/set/rare) |
+| Tal + Thul + Perfect Topaz + Body Armor | -> | Add sockets (1-2 for magic, 1 for unique/set/rare) |
+| Ral + Thul + Perfect Sapphire + Helm | -> | Add sockets (1-2 for magic, 1 for unique/set/rare) |
+| Tal + Amn + Perfect Ruby + Shield | -> | Add sockets (1-2 for magic, 1 for unique/set/rare) |
 
